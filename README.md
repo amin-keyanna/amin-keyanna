@@ -1,12 +1,12 @@
 ﻿<!-- ========== ANIMATED WAVE HEADER ========== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,100:8b5cf6&height=220&section=header&text=Md%20Sadique%20Amin&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Lead%20Telecom%20Software%20Architect%20%7C%20Keyanna%20Technology%20(KTPL)&descAlignY=60&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,100:8b5cf6&height=220&section=header&text=Md%20Sadique%20Amin&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Telecom%20Software%20Engineer%20%7C%20Keyanna%20Technology%20(KTPL)&descAlignY=60&descAlign=50" width="100%" alt="Header Banner" />
 </p>
 
 <!-- ========== TYPING SVG INTRO ========== -->
 <p align="center">
   <a href="https://github.com/amin-keyanna">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=500&color=22D3EE&center=true&vCenter=true&width=750&lines=Lead+Telecom+Software+Architect+%40+KTPL;SS7+%2F+SIGTRAN+%7C+M3UA+%7C+SCCP+%7C+TCAP+%7C+MAP;USSD+Gateway+%26+High-Performance+Netty+Core;Interconnect+Roaming+(IR)+%7C+BillOS+Rating+Engine;Enterprise+BSS-OSS+Microservices+Architect" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=500&color=22D3EE&center=true&vCenter=true&width=750&lines=Telecom+Software+Engineer+%40+KTPL;SS7+%2F+SIGTRAN+%7C+M3UA+%7C+SCCP+%7C+TCAP+%7C+MAP;USSD+Gateway+%26+High-Performance+Netty+Core;Interconnect+Roaming+(IR)+%7C+BillOS+Rating+Engine;Enterprise+BSS-OSS+Microservices+Engineer" alt="Typing SVG" />
   </a>
 </p>
 
@@ -21,7 +21,7 @@
 
 ---
 
-## 👨‍💻 Principal Telecom Architect Overview
+## 👨‍💻 Telecom Software Engineer Overview
 
 <table>
 <tr>
@@ -29,15 +29,15 @@
   <a href="https://github.com/amin-keyanna">
     <img src="https://avatars.githubusercontent.com/amin-keyanna" width="135" style="border-radius:50%; border: 3px solid #22d3ee;" alt="Md Sadique Amin" /><br><br>
     <b>Md Sadique Amin</b><br>
-    <sub>Lead Telecom Software Architect</sub><br>
+    <sub>Telecom Software Engineer</sub><br>
     <sub>Backend Java Specialist</sub>
   </a>
 </td>
 <td>
 
-**Md Sadique Amin** is the **Lead Telecom Software Architect & Senior Backend Systems Engineer** at **Keyanna Technology Private Limited (KTPL)**.
+**Md Sadique Amin** is a **Telecom Software Engineer & Senior Backend Java Developer** at **Keyanna Technology Private Limited (KTPL)**.
 
-Specializing in **high-throughput telecommunication protocols, mission-critical distributed systems, real-time rating engines, and carrier-grade signaling pipelines**. Responsible for architecting end-to-end telecom software solutions spanning:
+Specializing in **high-throughput telecommunication protocols, mission-critical distributed systems, real-time rating engines, and carrier-grade signaling pipelines**. Responsible for engineering end-to-end telecom software solutions spanning:
 - 📡 **USSD Gateway & Core Protocol Stack** (SS7/SIGTRAN, M3UA, SCCP, TCAP, MAP 09.02, Netty asynchronous event loops).
 - ⚡ **Interconnect Roaming (IR) & BillOS Rating Engine** (High-performance CDR mediation, automated Liquibase pipelines, multi-partner settlement).
 - 🏢 **Enterprise BSS-OSS Suite** (14+ Microservices, OCS real-time charging, Diameter AAA protocol, partner ledgers).
@@ -53,7 +53,7 @@ Specializing in **high-throughput telecommunication protocols, mission-critical 
 
 ---
 
-## 🏗️ Master Telecom Systems & Architectural Portfolio (KTPL)
+## 🏗️ Master Telecom Systems & Engineering Portfolio (KTPL)
 
 ```
                             ┌──────────────────────────────────────────────┐
@@ -83,7 +83,7 @@ Specializing in **high-throughput telecommunication protocols, mission-critical 
 
 ### 🛰️ Core Projects & Responsibilities:
 
-| Domain / Project | Technology Stack | Core Architectural Responsibility |
+| Domain / Project | Technology Stack | Core Engineering Responsibility |
 | :--- | :--- | :--- |
 | **USSD Core Gateway**<br>`ussd-server` | Java, Netty 4.x, Maven, SS7 APIs, Docker | Engineered high-concurrency Netty-based USSD application gateway handling high-throughput PSSR, USSR, and USSN session lifecycles, routing subscriber requests directly to telecom MSC/HLR backends. |
 | **SS7 / SIGTRAN Protocol Stack**<br>`ussd-protocol-stack` | Java, M3UA, SCCP, TCAP, MAP, INAP, CAP | Full-scale implementation and maintenance of carrier-grade signaling stack (M3UA over SCTP, SCCP routing, TCAP transactions, ASN.1 BER encoding, and GSM MAP 09.02 / TS 29.002). |
@@ -151,7 +151,7 @@ Specializing in **high-throughput telecommunication protocols, mission-critical 
 
 ---
 
-## 📊 Live GitHub Activity & Architectural Productivity
+## 📊 Live GitHub Activity & Engineering Productivity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amin-keyanna&show_icons=true&theme=radical&hide_border=true&title_color=22d3ee&text_color=e2e8f0&icon_color=8b5cf6&bg_color=0a0f1d" alt="GitHub Stats" width="48%" />
@@ -173,3 +173,5 @@ Specializing in **high-throughput telecommunication protocols, mission-critical 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,100:8b5cf6&height=120&section=footer" width="100%" alt="Footer Banner" />
 </p>
+
+
